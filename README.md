@@ -17,7 +17,7 @@
 
 <div class="center">
 <h2 class="heading-element" dir="auto"> Portfolio projects</h2>
-<p></p><a href="https://github.com/jdasia/Wealth-of-nations"> <img align="center", src="https://github.com/jdasia/Wealth-of-nations/blob/main/assets/cover", width=40, height=60 </a>    Wealth of nations </p>
+<p></p><a href="https://github.com/jdasia/Wealth-of-nations"> <img align="center", src="https://github.com/jdasia/Wealth-of-nations/blob/main/assets/cover.png", width=40, height=60 </a>    Wealth of nations </p>
 </div class="center">
 <!---
 jdasia/jdasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
